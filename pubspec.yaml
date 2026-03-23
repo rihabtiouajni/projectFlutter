@@ -1,0 +1,15 @@
+name: memory_card_flip_game
+description: A beginner-friendly Flutter Memory Card Flip Game.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  confetti: ^0.7.0
+
+flutter:
+  uses-material-design: true
